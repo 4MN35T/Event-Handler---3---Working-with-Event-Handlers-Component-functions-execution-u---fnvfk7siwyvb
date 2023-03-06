@@ -1,6 +1,9 @@
 import React from "react";
 import "../styles/App.css";
 const App = () => {
+  // const handleInput = (event) => {
+  //   console.log("Input in #" + event.target.id + " is " + event.target.value);
+  // };
 
   // do not change id of input elements
   return (
@@ -35,4 +38,3 @@ const App = () => {
 };
 
 export default App;
-Footer
